@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building and refining full-stack web applications using the MERN stack.<br><br>Exploring advanced concepts in web development and deployment.<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects related to web development and software engineering.<br>
+🔭Building and refining full-stack web applications using the MERN stack.<br><br>Exploring advanced concepts in web development and deployment.<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects related to web development and software engineering.<br>
 
 
 # 💻 Tech Stack:
