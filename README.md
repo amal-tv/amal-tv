@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Building and refining full-stack web applications using the MERN stack.<br><br>Exploring advanced concepts in web development and deployment.<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects related to web development and software engineering.<br>
+🔭Building and refining full-stack web applications using the MERN stack and exploring Cybersecurity.<br><br>🌱 Currently diving into Security Operations, learning threat detection, incident response, and vulnerability management.<br><br>👯 I’m looking to collaborate on<br><br>Open-source projects related to web development, software engineering, and cybersecurity.<br>
 
 
 # 💻 Tech Stack:
